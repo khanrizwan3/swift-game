@@ -2,10 +2,10 @@
 Swift Game build on SpriteKit Swift2.1
 
 Objects of Game:
-Wall
-Ninja
-Cloud
-Ground
+Wall,
+Ninja,
+Cloud,
+Ground,
 
 https://youtu.be/L6_g3b3D4Uk
 
